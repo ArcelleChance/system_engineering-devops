@@ -2,3 +2,4 @@
 # This script is displaying "Best School" 10 times
 chmod +x 1-for_best_school
 ./1-for_best_school
+for i in $(seq 1 10);
